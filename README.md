@@ -1,5 +1,5 @@
 # zotero-bibtex-online-sources
-This repository provides the translator for the BibTex format, adapted to provide online sources with an url and access date automatically in LaTex.
+This repository provides the translator for the [BibTeX](https://www.bibtex.org/) format, adapted to provide online sources with an url and access date automatically in LaTex.
 It is useful to handle online sources, since [Zotero](https://github.com/zotero/zotero) does not natively support the URL attribute and Access Date. Hence, manual changes have been required in the past. This script solves the mentioned problem. 
 
 ## How to use this script
